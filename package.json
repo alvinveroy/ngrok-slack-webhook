@@ -1,0 +1,25 @@
+{
+  "name": "ngrok-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinveroy/ngrok-slack-webhook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinveroy/ngrok-slack-webhook/issues"
+  },
+  "homepage": "https://github.com/alvinveroy/ngrok-slack-webhook#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ngrok": "^3.2.5",
+    "node-slack": "0.0.7",
+    "path": "^0.12.7"
+  }
+}
