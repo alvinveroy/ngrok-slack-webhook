@@ -2,6 +2,6 @@
 
 create a .env file and paste this
 ```
-AUTH='your auth token'
+AUTH='your ngrok auth token'
 SLACK_WEBHOOK='https://your-slack.webhook.url'
 ```
